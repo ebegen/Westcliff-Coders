@@ -5,3 +5,5 @@ After solving the problems, don’t forget to upload your solutions here!
 ### Easy:
 [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/)
 
+### Medium
+[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/)
